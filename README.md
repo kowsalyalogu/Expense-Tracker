@@ -31,7 +31,7 @@ This is a simple and user-friendly **Expense Tracker** application built using *
 └── index.js # JavaScript functionality
 
 1. Clone the repository:
-   git clone https://github.com/kowsalyal/expense-tracker.git
+   git clone https://github.com/username/repositoryname.git
 
 2. Open index.html in any modern browser.
 
