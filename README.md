@@ -4,8 +4,7 @@ This is a simple and user-friendly **Expense Tracker** application built using *
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the hosted app](https://kowsalyal.github.io/expense-tracker/)  
-*(Replace the link above with your actual GitHub Pages URL if it's different)*
+👉 [Click here to view the hosted app](https://kowsalyalogu.github.io/Expense-Tracker/) 
 
 ## 🧩 Features
 
